@@ -53,9 +53,8 @@ I'm a cybersecurity student interested in ethical hacking, network security, Lin
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/ketanpatil989030-lab
-- LinkedIn: Add your LinkedIn URL
-- Email: Add your professional email
+- LinkedIn: https://www.linkedin.com/in/ketan-patil-a4b407431/
+- Email: ketanpatil989030@gmail.com
 
----
 
 ### 🔐 Learn | Explore | Secure | Repeat 🚀
